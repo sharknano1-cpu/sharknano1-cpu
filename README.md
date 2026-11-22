@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My Discord is: corkusescorn
 - ⚡ Fun fact: I plan on becoming a hacker, master of all hackers. Step one? Binge-watch Mr.Robot >:)
 -->
+[![Boot.dev Learn Linux certificate](https://api.boot.dev/v1/static/certificate/800f06a3-f236-4643-9e43-e2c8bebfab13)](https://www.boot.dev/certificates/800f06a3-f236-4643-9e43-e2c8bebfab13)
 [![Boot.dev Introduction to Python Course certificate](https://api.boot.dev/v1/static/certificate/9cb0cb67-9528-43e6-bc21-9bb0ce06baa6)](https://www.boot.dev/certificates/9cb0cb67-9528-43e6-bc21-9bb0ce06baa6)
